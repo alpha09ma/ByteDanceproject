@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable/bottombackground.xml" value="0.2265" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable/ic_baseline_cached_24.xml" value="0.118" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable/redbackgroud.xml" value="0.2265" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/drawable/whitebackgroud.xml" value="0.2265" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/fragment_video_view_pageadpter.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/main_fragment.xml" value="0.25" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/picture_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/video_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/videoplayer.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/videoplayer_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/layout/viewpageitem.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/menu/flashmenu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/menu/picturemenu.xml" value="0.264" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/menu/takephotomenu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/Bytledance_device/app/src/main/res/menu/takepicturemenu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

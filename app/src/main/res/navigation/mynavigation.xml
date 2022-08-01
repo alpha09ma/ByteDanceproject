@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mynavigation"
+    app:startDestination="@id/mainFragment2">
+    <fragment
+        android:id="@+id/mainFragment2"
+        android:name="com.example.bytledance_device.ui.main.MainFragment"
+        android:label="main_fragment"
+        tools:layout="@layout/main_fragment" >
+        <action
+            android:id="@+id/action_mainFragment2_to_videoFragment2"
+            app:destination="@id/videoFragment2" />
+        <action
+            android:id="@+id/action_mainFragment2_to_pictureFragment"
+            app:destination="@id/pictureFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/videoFragment2"
+        android:name="com.example.bytledance_device.luxiang.VideoFragment"
+        android:label="video_fragment"
+        tools:layout="@layout/video_fragment" >
+        <action
+            android:id="@+id/action_videoFragment2_to_videoplayer"
+            app:destination="@id/videoplayer" />
+    </fragment>
+    <fragment
+        android:id="@+id/pictureFragment"
+        android:name="com.example.bytledance_device.Picture.PictureFragment"
+        android:label="picture_fragment"
+        tools:layout="@layout/picture_fragment" />
+    <fragment
+        android:id="@+id/videoplayer"
+        android:name="com.example.bytledance_device.video.Videoplayer"
+        android:label="Videoplayer" />
+</navigation>
